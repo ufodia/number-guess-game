@@ -54,3 +54,4 @@ def guess_the_number():
 
 # Call to the function to start the game
 guess_the_number()
+exitus = input("Press enter to close the program: ")
